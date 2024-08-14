@@ -35,6 +35,7 @@ class PlatformMap extends StatelessWidget {
             compassEnabled: compassEnabled,
             gestureRecognizers: gestureRecognizers,
             initialCameraPosition: initialCameraPosition,
+            onMapCreated: onMapCreated,
             mapType: mapType,
             minMaxZoomPreference: minMaxZoomPreference,
             myLocationButtonEnabled: myLocationButtonEnabled,
