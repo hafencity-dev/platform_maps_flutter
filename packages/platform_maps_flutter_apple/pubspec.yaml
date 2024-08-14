@@ -21,7 +21,10 @@ dependencies:
   flutter:
     sdk: flutter
   apple_maps_flutter: ^1.3.0
-  platform_maps_flutter_platform_interface: ^1.0.0-beta
+  platform_maps_flutter_platform_interface:
+    git:
+      url: https://github.com/hafencity-dev/platform_maps_flutter.git
+      path: packages/platform_maps_flutter_platform_interface
 
 dev_dependencies:
   flutter_test:
