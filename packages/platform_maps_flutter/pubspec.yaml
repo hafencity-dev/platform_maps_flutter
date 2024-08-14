@@ -28,6 +28,7 @@ dependencies:
     git:
       url: https://github.com/hafencity-dev/platform_maps_flutter.git
   platform_maps_flutter_platform_interface:
+    git:
       url: https://github.com/hafencity-dev/platform_maps_flutter.git
 
 dev_dependencies:
